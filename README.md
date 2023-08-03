@@ -1,7 +1,7 @@
 # TFC-Problem
 
 ## DIZZY
-[DIZZY]([https://pages.github.com/](https://github.com/SMSajadi99/TFC-Problem/blob/main/DIZZY.ipynb))
+This code is [DIZZY](https://github.com/SMSajadi99/TFC-Problem/blob/main/DIZZY.ipynb)
 
 ![dizzy](https://github.com/SMSajadi99/TFC-Problem/assets/69210109/cdae73db-163e-4045-b400-661b8bf06d1a)
 
