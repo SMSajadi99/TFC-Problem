@@ -2,6 +2,7 @@
 
 ## DIZZY
 [DIZZY]([https://pages.github.com/](https://github.com/SMSajadi99/TFC-Problem/blob/main/DIZZY.ipynb))
+
 ![dizzy](https://github.com/SMSajadi99/TFC-Problem/assets/69210109/cdae73db-163e-4045-b400-661b8bf06d1a)
 
 Embark on 'Dizzy', a carousel ride through cryptography! This warmup challenge spins you around the basics of ciphers and keys. Sharpen your mind, find the flag, and remember - in crypto, it's fun to get a little dizzy!
