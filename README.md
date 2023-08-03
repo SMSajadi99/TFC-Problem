@@ -10,7 +10,7 @@ Embark on 'Dizzy', a carousel ride through cryptography! This warmup challenge s
 ''' T4 l16 _36 510 _27 s26 _11 320 414 {6 }39 C2 T0 m28 317 y35 d31 F1 m22 g19 d38 z34 423 l15 329 c12 ;37 19 h13 _30 F5 t7 C3 325 z33 _21 h8 n18 132 k24 '''
 
 ## MAYDAY
-This code is [MAYDAY](https://github.com/SMSajadi99/TFC-Problem/blob/main/MAYDAY.ipynb)https://github.com/SMSajadi99/TFC-Problem/blob/main/MAYDAY.ipynb)
+This code is [MAYDAY](https://github.com/SMSajadi99/TFC-Problem/blob/main/MAYDAY.ipynb)
 
 ![mayday](https://github.com/SMSajadi99/TFC-Problem/assets/69210109/8033702c-e98d-45ad-9e32-90bde1c64011)
 
